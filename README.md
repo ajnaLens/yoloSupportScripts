@@ -1,2 +1,2 @@
 # yoloSupportScripts
-Support script for data preparation
+Support script for data preparation, Training and Deployment.
